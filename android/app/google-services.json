@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639300055638",
+    "firebase_url": "https://gradientlibrary.firebaseio.com",
+    "project_id": "gradientlibrary",
+    "storage_bucket": "gradientlibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639300055638:android:c721abddd3b00f50",
+        "android_client_info": {
+          "package_name": "com.arkademy.gradientlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639300055638-ct0oiguvc4dgsfj8c6evbs6pvthi5hsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDVA-zTubZ4suKJtGQAtnRVcAPUrqmmJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639300055638-ct0oiguvc4dgsfj8c6evbs6pvthi5hsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
